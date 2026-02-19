@@ -48,9 +48,5 @@ The results will be gathered and saved to İlanlar.xlsx in the project folder.
 📂 Project Structure (Proje Yapısı)
 main.py: The core automation logic and data extraction.
 
-sahibinden_profil/: (Ignored via .gitignore) Stores browser session data.
-
-İlanlar.xlsx: (Ignored via .gitignore) The final data output.
-
 ⚠️ Disclaimer (Yasal Uyarı)
 This project is intended for educational and personal use only. Scraping websites may violate their Terms of Service. The developer is not responsible for any misuse of this tool or potential legal consequences. Always respect the site's robots.txt and legal policies.
