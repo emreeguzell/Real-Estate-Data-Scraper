@@ -4,6 +4,7 @@ This project is a high-performance web scraping tool designed to extract real es
 Bu araç, Sahibinden.com üzerindeki emlak ilanlarını otomatik olarak çekmek ve bir Excel dosyasına kaydetmek için geliştirilmiştir. SeleniumBase'in gelişmiş "undetected" modunu kullanarak bot korumalarını aşar ve verileri düzenli bir tablo haline getirir.
 
 ✨ Key Features (Özellikler)
+
 Anti-Bot Bypass: Uses SeleniumBase with undetected-mode to navigate through Cloudflare and other bot-detection systems.
 
 Session Persistence: Supports user_data_dir to save browser cookies and sessions, minimizing the need for repetitive manual verification.
