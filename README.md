@@ -28,7 +28,7 @@ Openpyxl
 Clone the repository:
 
 Bash
-git clone https://github.com/yourusername/sahibindenscraping.git
+git clone https://github.com/emreeguzell/sahibindenscraping.git
 cd sahibindenscraping
 Install dependencies:
 
