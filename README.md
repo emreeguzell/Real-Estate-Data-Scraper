@@ -16,6 +16,7 @@ OOP Design: Utilizes a clean Emlak class structure to handle and organize listin
 Excel Integration: Automatically generates an .xlsx file with detailed headers (Listing Title, m², Room Count, Price, Date, and Location).
 
 🛠️ Requirements (Gereksinimler)
+
 Python 3.x
 
 SeleniumBase
@@ -23,6 +24,7 @@ SeleniumBase
 Openpyxl
 
 🚀 Installation & Usage (Kurulum ve Kullanım)
+
 Clone the repository:
 
 Bash
